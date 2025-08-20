@@ -24,8 +24,8 @@
 - (2025.01-2025.03) Software Engineering Intern (Backend) @ [Papatia](https://papatia.co/)
 
 ### ⚡ Projects
-- [SailMate AI]() – AI-powered marine safety assistant providing real-time sailing
-- [Shipwright AI]() – Automation platform that converts natural language prompts into production-ready software
+- [SailMate AI](https://github.com/Kaankocc/SailMate/tree/main) – AI-powered marine safety assistant providing real-time sailing
+- [Shipwright AI](https://github.com/Kaankocc/Shipwright-AI) – Automation platform that converts natural language prompts into production-ready software
 - [Interstellar Automated Visualizer](https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/space-meatballs/?tab=details) - NASA Space Apps 2024 Global Finalist; AI tool for visualizing space-borne biological experiments
-- [Alara]()
+- [Alara](https://github.com/Kaankocc/Alara---Your-Virtual-Personal-Trainer) – Virtual personal trainer that uses computer vision and Gemini API to generate personalized workout plans
 
