@@ -1,6 +1,6 @@
 ## Who I am 🐳
 
-> [LinkedIn](https://www.linkedin.com/in/kaan-koc0) &nbsp; · &nbsp; [Email](mailto:iam@kaankoc.tech) &nbsp; · &nbsp; [resume](./Kaan_Koc_SWE_Intern_Resume.pdf)
+> [Personal Website](https://www.kaankoc.tech/) &nbsp; · [LinkedIn](https://www.linkedin.com/in/kaan-koc0) &nbsp; · &nbsp; [Email](mailto:iam@kaankoc.tech) &nbsp; · &nbsp; [resume](./Kaan_Koc_SWE_Intern_Resume.pdf)
 
 ### Education 
 [University of California, Santa Cruz](https://www.ucsc.edu/) - Expected Graduation June 2026, GPA: 3.85 
