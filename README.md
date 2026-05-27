@@ -1,5 +1,5 @@
 ## Who I am 🐳
-> [Personal Website](https://www.kaankoc.tech/) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/kaan-koc0) &nbsp; · &nbsp; [Email](mailto:iam@kaankoc.tech) &nbsp; · &nbsp; [Resume](https://drive.google.com/file/d/1-WitteH-YjAUk4gNaFBgTrfaBQs0AXZn/view?usp=sharing)
+> [Personal Website](https://www.kaankoc.tech/) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/kaan-koc0) &nbsp; · &nbsp; [Email](mailto:iam@kaankoc.tech) &nbsp; · &nbsp; [Resume](https://drive.google.com/file/d/1qwc_OFdLyTsBl_ovMXS1mPctxJXGn404/view?usp=sharing)
 
 CS student at UC Santa Cruz working on perception and decision-making for autonomous vehicles. Currently doing research at the AIEA Lab on autonomous shuttle simulation in CARLA.
 
