@@ -1,31 +1,34 @@
 ## Who I am 🐳
+> [Personal Website](https://www.kaankoc.tech/) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/kaan-koc0) &nbsp; · &nbsp; [Email](mailto:iam@kaankoc.tech) &nbsp; · &nbsp; [Resume](https://drive.google.com/file/d/1-WitteH-YjAUk4gNaFBgTrfaBQs0AXZn/view?usp=sharing)
 
-> [Personal Website](https://www.kaankoc.tech/) &nbsp; · [LinkedIn](https://www.linkedin.com/in/kaan-koc0) &nbsp; · &nbsp; [Email](mailto:iam@kaankoc.tech) &nbsp; · &nbsp; [resume](./Kaan_Koc_SWE_Intern_Resume.pdf)
+CS student at UC Santa Cruz working on perception and decision-making for autonomous vehicles. Currently doing research at the AIEA Lab on autonomous shuttle simulation in CARLA.
 
-### Education 
-[University of California, Santa Cruz](https://www.ucsc.edu/) - Expected Graduation June 2026, GPA: 3.85 
+### Education
+[University of California, Santa Cruz](https://www.ucsc.edu/) — B.S. Computer Science, Expected June 2026 · GPA: 3.90
 
-### ✨ Interests 
-- Full-stack Engineering, Distributed Systems, Cloud Computing
+### ✨ Interests
+- Autonomous Driving, Computer Vision, Deep Learning, Sensor Fusion, Edge Deployment
 
-### ​​🛠️ Skills
+### 🛠️ Skills
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,c,cpp,python,fastapi,kotlin,java,cs,r,ts,js,go,swift,nodejs,expressjs,react,nextjs,nestjs,flask,postgres,mysql,aws,docker,linux,git,figma" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,c,go,java,ts,js,react,fastapi,postgres,docker,linux,git,aws" />
   </a>
   <br/>
 </p>
 
-### 🚀 Experiences
+**ML / CV:** PyTorch, TensorFlow, scikit-learn, CNNs, Transformers, Semantic Segmentation, LiDAR + Camera Fusion, TensorRT, ONNX
+**Robotics / Sim:** CARLA, Scenic, NVIDIA Jetson, Cityscapes, GTSRB
+**Languages:** Python, C/C++, Go, Java, TypeScript, SQL
+**Spoken:** Turkish (native), English (C1), German (learning)
 
-- (2024.09-present) Software Engineering Intern (Backend) @ [Tech4Good](https://tech4good.soe.ucsc.edu/)
-- (2024.09-2025.06) Software Engineering Project Lead (Full-Stack) @ [Slug AI (Largest AI Club at UCSC)](https://www.slugai.org/) 
-- (2024.12-2025.05) Software Engineering Intern @ [Boundary RSS](https://www.boundaryrss.org/)
-- (2025.01-2025.03) Software Engineering Intern (Backend) @ [Papatia](https://papatia.co/)
+### 🔬 Research
+- (2026.01–present) Undergraduate Research Assistant @ [AIEA Lab, UCSC](https://aiea-lab.github.io/) — autonomous shuttle perception & planning in CARLA
+- (2024.09–2025.09) Lead Telemetry & ML Engineer @ [Formula Slug FSAE Electric](https://formulaslug.com/) — real-time fault detection on Jetson Orin
+- (2024.06–2025.08) Undergraduate Research Lead @ [Tech4Good Lab, UCSC](https://tech4good.soe.ucsc.edu/) — autonomous multi-step task agents
 
 ### ⚡ Projects
-- [SailMate AI](https://github.com/Kaankocc/SailMate/tree/main) – AI-powered marine safety assistant providing real-time sailing
-- [Shipwright AI](https://github.com/Kaankocc/Shipwright-AI) – Automation platform that converts natural language prompts into production-ready software
-- [Interstellar Automated Visualizer](https://github.com/Kaankocc/Interstellar-Automated-Visualizer/tree/main) - NASA Space Apps 2024 Global Finalist; AI tool for visualizing space-borne biological experiments
-- [Alara](https://github.com/Kaankocc/Alara---Your-Virtual-Personal-Trainer) – Virtual personal trainer that uses computer vision and Gemini API to generate personalized workout plans
-
+- [AutoVision](https://github.com/Kaankocc/autovision-cityscapes) — Semantic segmentation for urban driving (UNet → DeepLabV3+, Cityscapes); +4.82% pedestrian, +3.29% vehicle detection after architecture upgrade
+- [GTSRB Traffic Sign Classifier](https://github.com/Kaankocc/gtsrb_classifier) — ResNet18 transfer learning, 99.60% accuracy across 43 classes (above the 98.84% human benchmark)
+- [Interstellar Automated Visualizer](https://github.com/Kaankocc/Interstellar-Automated-Visualizer/tree/main) — NASA Space Apps 2024 Global Finalist (top of 10,000+ teams); React + FastAPI + LangChain platform for exploring NASA OSDR biology data
+- [SailMate AI](https://github.com/Kaankocc/SailMate/tree/main) — AI marine safety assistant with real-time sailing guidance
